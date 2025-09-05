@@ -1,4 +1,4 @@
 # CodeSpark
 SIH Repository
 <br>
-Welcome to - AlumniConnect
+Welcome to - Alumni Connect
